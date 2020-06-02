@@ -12,6 +12,7 @@ for(i=0;i<3;i++) {
 		aa[i][k]=val;
 		val++;
 	}
+	
 }
 
 System.out.printf("aa[0][0]부터 aa[2][3]까지 출력\n");
