@@ -9,6 +9,7 @@ public class ex007_9 {
          int hap;
          
          
+         
          System.out.printf("1번째 숫자를 입력하세요. : ");
          a= S.nextInt();
          
