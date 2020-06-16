@@ -1,28 +1,15 @@
-
-public class salute {
+public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+  
 
-		int i;
-		for(i= 1; i <= 100; i++) {
-			
-		System.out.printf("for 문을 %d 회 실행했습니다,\n",i);
+		 System.out.println("강한친구 대한육군");
+		 System.out.println("강한친구 대한육군");
 		
 		
 		
-		if(i==33)
-		break;
-		}
-         
 		
-        	  
-        
-		
-		System.out.printf("for 문을 종료했습니다. \n");
-          }
 	}
 
-
-
+}
 
