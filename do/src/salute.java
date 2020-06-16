@@ -17,7 +17,7 @@ public class salute {
          
 		
         	  
-        	 
+        
 		
 		System.out.printf("for 문을 종료했습니다. \n");
           }
