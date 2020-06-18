@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-public class qudgkq {
+public class qudgkq  {
 
    public static void main(String[] args) {
 
